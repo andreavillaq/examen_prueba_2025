@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "c:/Users/andri/GitHub/examen_prueba_2025/andrea_environment_2025\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}

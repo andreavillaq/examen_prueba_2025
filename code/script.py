@@ -13,4 +13,4 @@ if __name__ == "__main__":
     ruta = r"C:\Users\andri\GitHub\examen_prueba_2025\data\datos_mock.csv"
     df = descargar_datos(ruta)
     df = procesar_fecha(df)
-    print(df.head())
+    print(df.head(5))
