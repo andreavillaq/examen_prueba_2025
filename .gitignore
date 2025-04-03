@@ -160,7 +160,7 @@ cython_debug/
 #.idea/
 
 # Ignorar entorno virtual
-/env_prueba2/
+/andrea_environment_2025/
 # Ignorar archivos CSV en la carpeta de datos
 /data/
 # Ignorar notebooks
